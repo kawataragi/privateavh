@@ -1,0 +1,151 @@
+#bigbro{
+  height:1000px;
+  width:1350px;
+  background-color:black;
+}
+.one{
+  height:100px;
+  width:1350px;
+ background-image: url('https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif');
+  text-align: center;
+  color:rgb(45, 23, 238);
+  font-size:50px;
+}
+.two{
+  height:50px;
+  width:1350px;
+  background-color: blue;
+  display:flex;
+}
+.home{
+  height:50px;
+  width:450px;
+
+  font-size:30px;
+  text-align: center;
+}
+.about{
+  height:50px;
+  width:450px;
+  background-image: url('https://i.ytimg.com/vi/W02gqzO5OCY/maxresdefault.jpg');
+  font-size:30px;
+  text-align: center;
+}
+.myskill{
+  height:50px;
+  width:450px;
+  background-image: url('https://static.vecteezy.com/system/resources/thumbnails/001/626/656/original/flying-through-deep-space-free-video.jpg');
+  font-size:30px;
+  text-align: center;
+  
+}
+.link{
+  text-decoration: none;
+}
+.ah{
+  text-decoration: none;
+}
+.ms{
+  text-decoration: none;
+}
+.three{
+  height:400px;
+  width:1350px;
+  background-color: forestgreen;
+}
+.image{
+  height:400px;
+  width:900px;
+  background-image: url('https://cdn.dribbble.com/users/3745421/screenshots/7424063/media/ae896f989b4d50b9b111b657cfe29e9b.gif');
+  float:right;
+  text-align: center;
+  font-size:20px;
+  color:rgb(146, 103, 10);
+
+}
+.first{
+  height:100px;
+  width:500px;
+  background-image: url('https://i.gifer.com/76YS.gif');
+  font-size:60px;
+  text-align: center;
+}
+.second{
+  height:100px;
+  width:500px;
+  background-image: url('https://www.icegif.com/wp-content/uploads/cool-wallpapers-icegif-1.gif');
+  font-size:60px;
+  text-align: center;
+}
+.third{
+  height:100px;
+  width:500px;
+  background-image: url('https://www.icegif.com/wp-content/uploads/cool-wallpapers-icegif-1.gif');
+  font-size:60px;
+  text-align: center;
+}
+.haku{
+  text-decoration: none;
+}
+.chaku{
+  text-decoration: none;
+  text-align: center;
+}
+.naku{
+  text-decoration:none;
+}
+.meow{
+  height:100px;
+  width:500px;
+  background-image: url('https://i.gifer.com/76YS.gif');
+  font-size:60px;
+  text-align: center;
+}
+.meo{
+  text-decoration: none;
+}
+.playpage{
+  height:200px;
+  width:1350px;
+  background-color: darkslategray;
+}
+
+.cm{
+  height:200px;
+  width:1350px;
+ background-image: url('https://cdna.artstation.com/p/assets/images/images/047/517/388/original/inkpendude-portal-storm.gif?1647794887');
+  font-size:30px;
+  color:aliceblue;
+  text-align: center;
+  display: flex;
+ 
+}
+.buttonhome{
+  height:50px;
+  width:450px;
+  background-image: url('https://i.pinimg.com/originals/97/db/44/97db448755cda63481a5f17eb5ffea7c.gif');
+  font-size: 30px;
+  color:rgb(11, 212, 179);
+}
+.insta{
+  height:60px;
+  width:450px;
+  background-color: coral;
+  border-top-left-radius: 99%;
+  border-bottom-right-radius: 99%;
+}
+.face{
+  height:60px;
+  width:450px;
+  background-color: rgb(80, 255, 103);
+  border-top-right-radius: 99%;
+  border-bottom-left-radius: 99%;
+
+}
+.tik{
+  height:60px;
+  width:100px;
+  background-color: rgb(177, 18, 142);
+  border-top-left-radius: 99%;
+  border-bottom-right-radius: 99%;
+}
